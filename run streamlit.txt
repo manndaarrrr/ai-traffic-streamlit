@@ -1,0 +1,5 @@
+Step1: 
+cd C:\Users\manda\OneDrive\Documents\AI Traffic - Jupyter
+
+Step2:
+streamlit run dash_app.py
